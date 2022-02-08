@@ -1,4 +1,4 @@
 # Spark
-In this repo you see soma basic Spark operations. I hope it will help.
+In this repo you see some basic Spark operations. I hope it will help.
 
 Enjoy.
